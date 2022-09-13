@@ -1,5 +1,0 @@
-# testscanner
-
-
-eigpay
-dfbx.assets
